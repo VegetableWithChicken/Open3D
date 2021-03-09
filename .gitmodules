@@ -1,54 +1,54 @@
 [submodule "3rdparty/pybind11"]
 	path = 3rdparty/pybind11
-	url = https://github.cnpmjs.org/pybind/pybind11.git
+	url = https://github.com.cnpmjs.org/pybind/pybind11.git
 [submodule "3rdparty/eigen-git-mirror"]
 	path = 3rdparty/Eigen
 	url = https://gitlab.com/libeigen/eigen.git
 [submodule "3rdparty/qhull"]
 	path = 3rdparty/qhull
-	url = https://github.cnpmjs.org/qhull/qhull.git
+	url = https://github.com.cnpmjs.org/qhull/qhull.git
 	branch = master
 [submodule "3rdparty/googletest"]
 	path = 3rdparty/googletest
-	url = https://github.cnpmjs.org/google/googletest.git
+	url = https://github.com.cnpmjs.org/google/googletest.git
 	branch = master
 [submodule "3rdparty/tinyobjloader"]
 	path = 3rdparty/tinyobjloader/tinyobjloader
-	url = https://github.cnpmjs.org/syoyo/tinyobjloader.git
+	url = https://github.com.cnpmjs.org/syoyo/tinyobjloader.git
 	branch = master
 [submodule "3rdparty/open3d_sphinx_theme"]
 	path = 3rdparty/open3d_sphinx_theme
-	url = https://github.cnpmjs.org/intel-isl/open3d_sphinx_theme.git
+	url = https://github.com.cnpmjs.org/intel-isl/open3d_sphinx_theme.git
 [submodule "3rdparty/fmt"]
 	path = 3rdparty/fmt
-	url = https://github.cnpmjs.org/fmtlib/fmt.git
+	url = https://github.com.cnpmjs.org/fmtlib/fmt.git
 [submodule "3rdparty/tinygltf"]
 	path = 3rdparty/tinygltf/tinygltf
-	url = https://github.cnpmjs.org/syoyo/tinygltf.git
+	url = https://github.com.cnpmjs.org/syoyo/tinygltf.git
 [submodule "3rdparty/libjpeg-turbo/libjpeg-turbo"]
 	path = 3rdparty/libjpeg-turbo/libjpeg-turbo
-	url = https://github.cnpmjs.org/libjpeg-turbo/libjpeg-turbo.git
+	url = https://github.com.cnpmjs.org/libjpeg-turbo/libjpeg-turbo.git
 [submodule "3rdparty/PoissonRecon/Open3D-PoissonRecon"]
 	path = 3rdparty/PoissonRecon/PoissonRecon
-	url = https://github.cnpmjs.org/intel-isl/Open3D-PoissonRecon.git
+	url = https://github.com.cnpmjs.org/intel-isl/Open3D-PoissonRecon.git
 [submodule "3rdparty/parallelstl"]
 	path = 3rdparty/parallelstl
-	url = https://github.cnpmjs.org/oneapi-src/oneDPL
+	url = https://github.com.cnpmjs.org/oneapi-src/oneDPL
 [submodule "3rdparty/cub"]
 	path = 3rdparty/cub
-	url = https://github.cnpmjs.org/NVlabs/cub
+	url = https://github.com.cnpmjs.org/NVlabs/cub
 [submodule "3rdparty/nanoflann"]
 	path = 3rdparty/nanoflann
-	url = https://github.cnpmjs.org/jlblancoc/nanoflann
+	url = https://github.com.cnpmjs.org/jlblancoc/nanoflann
 [submodule "3rdparty/cutlass"]
 	path = 3rdparty/cutlass
-	url = https://github.cnpmjs.org/NVIDIA/cutlass
+	url = https://github.com.cnpmjs.org/NVIDIA/cutlass
 [submodule "3rdparty/filament/filament"]
 	path = 3rdparty/filament/filament
-	url = https://github.cnpmjs.org/google/filament.git
+	url = https://github.com.cnpmjs.org/google/filament.git
 [submodule "3rdparty/imgui"]
 	path = 3rdparty/imgui
-	url = https://github.cnpmjs.org/ocornut/imgui.git
+	url = https://github.com.cnpmjs.org/ocornut/imgui.git
 [submodule "3rdparty/benchmark"]
 	path = 3rdparty/benchmark
-	url = https://github.cnpmjs.org/google/benchmark.git
+	url = https://github.com.cnpmjs.org/google/benchmark.git
