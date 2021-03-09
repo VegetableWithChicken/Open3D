@@ -1,16 +1,17 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_logo_horizontal.png" width="320" />
 </p>
-# 说明  
-<h4> 
-    考虑到中国境内通过git clone 或则 VPN方式下载thirdparty库很困难，我fork官方库之后对文件做了修改，这样可以方便在国内进行下载。  
-    Windows 或则linux系统可以使用以下方式clone文件  
-    1，git clone --recursive https://github.com.cnpmjs.org/VegetableWithChicken/Open3D.git  
-    2，由于Eigen模块缺失，可以去官网下载release之后放入Open3D\3rdparty\Eigen文件夹即可  
-    3，缺少pybind11文件：删除 Open3D\3rdparty\pybind11文件夹，然后右击open3d文件夹，git clone https://github.com.cnpmjs.org/pybind/pybind11.git 即可下载  
-    4，其他文件夹有问题，可以使用相同方式clone , 需要把https://github.com/改为 https://github.com.cnpmjs.org/之后再进行git clone操作  
-    5，如果VS编译文件，出现找不到文件情况，应该是库链接错误，按照VS链接库方式正确link库即可  
-</h4>
+
+# 说明    
+考虑到中国境内通过git clone 或则 VPN方式下载thirdparty库很困难，我fork官方库之后对文件做了修改，这样可以方便在国内进行下载.    
+Windows 或则linux系统可以使用以下方式clone文件:  
+
+* 1，git clone --recursive https://github.com.cnpmjs.org/VegetableWithChicken/Open3D.git  
+* 2，由于Eigen模块缺失，可以去官网下载release之后放入Open3D\3rdparty\Eigen文件夹即可  
+* 3，缺少pybind11文件：删除 Open3D\3rdparty\pybind11文件夹，然后右击open3d文件夹，git clone https://github.com.cnpmjs.org/pybind/pybind11.git 即可下载  
+* 4，其他文件夹有问题，可以使用相同方式clone , 需要把https://github.com/改为 https://github.com.cnpmjs.org/之后再进行git clone操作  
+* 5，如果VS编译文件，出现找不到文件情况，应该是库链接错误，按照VS链接库方式正确link库即可  
+
 # Open3D: A Modern Library for 3D Data Processing
 
 <h4>
