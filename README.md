@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_logo_horizontal.png" width="320" />
 </p>
-
+##国内学习交流群 734224875  
 # 说明    
 考虑到中国境内通过git clone 或则 VPN方式下载thirdparty库很困难，我fork官方库之后对文件做了修改，这样可以方便在国内进行下载.    
 Windows 或则linux系统可以使用以下方式clone文件:  
